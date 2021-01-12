@@ -1,0 +1,26 @@
+Q1.
+https://github.com/hz6
+
+Q2.
+requests version is 2.21.0 in system
+
+Q3.
+requests version is 2.25.1 in virtual environment
+
+Q4.
+virtual environment installs a newer version than it does in non-virtual environment
+
+Q5.
+I got status code 301(Moved permanently)
+http://www.google.com will get 200
+
+Q6.
+curl http://google.com/teapot returns 418
+is the one returned by curl -iL(curl -i returns 301)
+curl http://www.google.com/teapot return 418
+
+Q7.
+the method is changed from “GET” to “POST” after using “-X POST”, it’s useful for posting form fields
+
+Q8.
+https://raw.githubusercontent.com/hz6/cmput404-lab1/master/lab_1.py
